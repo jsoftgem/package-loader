@@ -1,0 +1,19 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "Loads all production depencies in package.json ",
+  "main": "src/sample1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerico de Guzman",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "fluid-component": "*",
+    "lodash": "^4.12.0"
+  }
+}

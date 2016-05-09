@@ -1,0 +1,23 @@
+{
+  "name": "package-loader",
+  "version": "1.0.0",
+  "description": "Loads all production depencies in package.json ",
+  "main": "src/package-loader",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test --watch --recursive"
+  },
+  "author": "Jerico de Guzman",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "jsonfile": "^2.3.0",
+    "lodash": "^4.12.0",
+    "npm-registry": "^0.1.13",
+    "tar.gz": "^1.0.3",
+    "tarball-extract": "0.0.3"
+  }
+}
