@@ -1,7 +1,7 @@
 {
   "name": "package-loader",
-  "version": "1.0.0",
-  "description": "Loads all production depencies in package.json ",
+  "version": "0.1.0",
+  "description": "Dynamically loads all production depencies in package.json ",
   "main": "src/package-loader",
   "scripts": {
     "test": "./node_modules/.bin/mocha test --watch --recursive"
