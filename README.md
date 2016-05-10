@@ -1,5 +1,6 @@
 # package-loader
 A simple way to dynamically load npm packages 
+
 [![NPM](https://nodei.co/npm/package-loader.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/package-loader?downloads=true&downloadRank=true&stars=true)
 
 ## Install
