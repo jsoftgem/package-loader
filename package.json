@@ -1,6 +1,6 @@
 {
   "name": "package-loader",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Dynamically loads all production dependencies in package.json ",
   "main": "src/package-loader",
   "scripts": {
@@ -25,5 +25,9 @@
     "lodash": "^4.12.0",
     "npm-registry": "^0.1.13",
     "tarball-extract": "0.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsoftgem/package-loader"
   }
 }
