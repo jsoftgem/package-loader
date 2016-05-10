@@ -1,6 +1,6 @@
 {
   "name": "package-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Dynamically loads all production depencies in package.json ",
   "main": "src/package-loader",
   "scripts": {
@@ -17,7 +17,6 @@
     "jsonfile": "^2.3.0",
     "lodash": "^4.12.0",
     "npm-registry": "^0.1.13",
-    "tar.gz": "^1.0.3",
     "tarball-extract": "0.0.3"
   }
 }
