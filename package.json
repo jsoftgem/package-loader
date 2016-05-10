@@ -1,6 +1,6 @@
 {
   "name": "package-loader",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Dynamically loads all production depencies in package.json ",
   "main": "src/package-loader",
   "scripts": {
