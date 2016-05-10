@@ -12,6 +12,13 @@
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
   },
+  "keywords": [
+    "package",
+    "loader",
+    "package-loader",
+    "dynamic",
+    "module"
+  ],
   "dependencies": {
     "fs-extra": "^0.30.0",
     "jsonfile": "^2.3.0",
