@@ -1,7 +1,5 @@
 (function () {
     'use strict';
-    var request = require('request');
-    var targz = require('tar.gz');
     var tarball = require('tarball-extract');
     var lodash = require('lodash');
     var fs = require('fs-extra');

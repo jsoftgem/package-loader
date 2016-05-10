@@ -3,3 +3,4 @@
 test/sample1/node_modules
 test/sample2/node_modules
 node_modules
+package-loader.iml
